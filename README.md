@@ -19,9 +19,7 @@ Hi, I'm McSkiidy<br>Interested in Cybersecurity practices and coding<br>Currentl
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
 
 ---
-<a href="https://visitcount.itsvg.in">
-  <img src="https://visitcount.itsvg.in/api?id=McSkiidy&label=Profile%20Views&pretty=false" />
-</a>
+
 [![](https://visitcount.itsvg.in/api?id=McSkiidy&label=Profile%20Views&pretty=false)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
