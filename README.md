@@ -1,7 +1,7 @@
 # 💫 About Me:
 Hi, I'm McSkiidy<br>Interested in Cybersecurity practices and coding<br>Currently learning new technologies like AWS, Flask etc.<br>Reach me at ss2899411@gmail.com
 <html>
-<img src="https://tryhackme-badges.s3.amazonaws.com/ss2899411.png" alt="Your Image Badge" />
+<img src="https://tryhackme-badges.s3.amazonaws.com/ss2899411.png" alt="Shubham Sharma" />
 
 
 
