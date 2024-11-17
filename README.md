@@ -1,6 +1,7 @@
 # 💫 About Me:
 Hi, I'm McSkiidy<br>Interested in Cybersecurity practices and coding<br>Currently learning new technologies like AWS, Flask etc.<br>Reach me at ss2899411@gmail.com
 
+<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=1584224" style='border:none;'></iframe>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/shubham-sharma-7008b5231/) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@@ss2899411) 
