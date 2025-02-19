@@ -2,7 +2,8 @@
 Hi, I'm Shubham Sharma<br>Interested in Cybersecurity practices, Cloud Computing and coding<br>Currently learning new technologies like AWS, and GCP etc.<br>Reach me at ss2899411@gmail.com
 <html>
 <img src="https://tryhackme-badges.s3.amazonaws.com/McSkiidy.png" alt="TryHackMe Badge" />
-
+## Badges Earned:
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="3feb5ddd-983b-488f-82c4-aac655fc1372" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
 
 
 ## 🌐 Socials:
